@@ -1,0 +1,50 @@
+body{
+	padding: 10px 120px;
+	background-color: #171717;
+}
+
+.body{
+	min-height: 580px;
+}
+
+.header{
+	background: url('../img/bghead.png');
+	height: 130px;
+	padding-left: 50px;
+}
+
+.subtitle{
+	margin-left: 135px;
+	margin-top: -15px;
+	font-style: italic;
+}
+
+.header-left{
+	float: left;
+}
+
+.header-rigth{
+	float: right;
+}
+
+.header-rigth > .links{
+	margin-top: 15px;
+	margin-right: 20px;
+}
+
+.content{
+	width: 100%;
+}
+
+.menu{
+	margin-right: -10px;
+	margin-left: -10px;
+}
+
+.contenido{
+	padding: 10px 100px 0 100px;
+}
+
+.contenido > h2{
+	margin-bottom: 30px;
+}
